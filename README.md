@@ -15,16 +15,18 @@ Estructura del Proyecto
 
 El proyecto sigue la estructura solicitada:
 
+```
 proyecto/
 ├── data/
-│   ├── raw/              # Datos crudos originales (CSV del INDEC)
-│   ├── clean/            # Datos limpios
-│   └── processed/        # Datos procesados (listos para análisis)
+│ ├── raw/ # Datos crudos originales (CSV del INDEC)
+│ ├── clean/ # Datos limpios
+│ └── processed/ # Datos procesados (listos para análisis)
 ├── output/
-│   ├── tables/           # Resultados en tablas (CSV)
-│   └── figures/          # Gráficos del análisis
-├── scripts/              # Scripts ejecutables en orden
-└── README.md             # Este archivo
+│ ├── tables/ # Resultados en tablas (CSV)
+│ └── figures/ # Gráficos del análisis
+├── scripts/ # Scripts ejecutables en orden
+└── README.md # Este archivo
+```
 
 ---
 
